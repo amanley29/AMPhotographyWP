@@ -1,0 +1,96 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css");
+
+/* body {
+  max-width: 900px;
+  margin: 0 auto;
+} */
+
+h1 {
+  text-align: center;
+  color: blueviolet;
+  padding: 20px;
+  text-decoration: underline;
+}
+
+h2 {
+  color: green;
+  text-align: left;
+}
+
+h3 {
+  text-align: left;
+  color: gray;
+}
+
+form {
+  padding-bottom: 50px;
+}
+
+.footer {
+  clear: both;
+  position: relative;
+  z-index: 1;
+  height: -3em;
+  margin-top: 10em;
+  background-color: lightgrey;
+  color: black;
+  text-align: center;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+#nav {
+  color: black;
+}
+
+.nav-menu {
+  list-style-type: none;
+  text-align: center;
+  word-spacing: 10px;
+}
+
+.nav-menu li {
+  display: inline;
+}
+
+#contact-form {
+  background-color: lightgray;
+  padding: 10px;
+}
+
+#title {
+  color: blueviolet;
+  font-weight: bold;
+  margin-top: 8;
+}
+
+#quote {
+  font-style: italic;
+  font-size: medium;
+  padding-top: 100px;
+  color: blueviolet;
+}
+
+#more {
+  text-align: center;
+}
+
+#center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+}
+
+#home {
+  padding-top: 30px;
+}
